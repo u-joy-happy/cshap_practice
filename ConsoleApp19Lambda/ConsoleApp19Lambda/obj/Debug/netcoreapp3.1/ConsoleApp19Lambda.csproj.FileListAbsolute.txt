@@ -1,0 +1,12 @@
+/Users/kimhyoju/Projects/ConsoleApp19Lambda/ConsoleApp19Lambda/bin/Debug/netcoreapp3.1/ConsoleApp19Lambda.deps.json
+/Users/kimhyoju/Projects/ConsoleApp19Lambda/ConsoleApp19Lambda/bin/Debug/netcoreapp3.1/ConsoleApp19Lambda.runtimeconfig.json
+/Users/kimhyoju/Projects/ConsoleApp19Lambda/ConsoleApp19Lambda/bin/Debug/netcoreapp3.1/ConsoleApp19Lambda.runtimeconfig.dev.json
+/Users/kimhyoju/Projects/ConsoleApp19Lambda/ConsoleApp19Lambda/bin/Debug/netcoreapp3.1/ConsoleApp19Lambda.dll
+/Users/kimhyoju/Projects/ConsoleApp19Lambda/ConsoleApp19Lambda/bin/Debug/netcoreapp3.1/ConsoleApp19Lambda.pdb
+/Users/kimhyoju/Projects/ConsoleApp19Lambda/ConsoleApp19Lambda/obj/Debug/netcoreapp3.1/ConsoleApp19Lambda.csprojAssemblyReference.cache
+/Users/kimhyoju/Projects/ConsoleApp19Lambda/ConsoleApp19Lambda/obj/Debug/netcoreapp3.1/ConsoleApp19Lambda.AssemblyInfoInputs.cache
+/Users/kimhyoju/Projects/ConsoleApp19Lambda/ConsoleApp19Lambda/obj/Debug/netcoreapp3.1/ConsoleApp19Lambda.AssemblyInfo.cs
+/Users/kimhyoju/Projects/ConsoleApp19Lambda/ConsoleApp19Lambda/obj/Debug/netcoreapp3.1/ConsoleApp19Lambda.csproj.CoreCompileInputs.cache
+/Users/kimhyoju/Projects/ConsoleApp19Lambda/ConsoleApp19Lambda/obj/Debug/netcoreapp3.1/ConsoleApp19Lambda.dll
+/Users/kimhyoju/Projects/ConsoleApp19Lambda/ConsoleApp19Lambda/obj/Debug/netcoreapp3.1/ConsoleApp19Lambda.pdb
+/Users/kimhyoju/Projects/ConsoleApp19Lambda/ConsoleApp19Lambda/obj/Debug/netcoreapp3.1/ConsoleApp19Lambda.genruntimeconfig.cache
