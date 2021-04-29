@@ -1,0 +1,12 @@
+/Users/kimhyoju/Projects/ConsoleApp06loop3/ConsoleApp06loop3/bin/Debug/netcoreapp3.1/ConsoleApp06loop3.deps.json
+/Users/kimhyoju/Projects/ConsoleApp06loop3/ConsoleApp06loop3/bin/Debug/netcoreapp3.1/ConsoleApp06loop3.runtimeconfig.json
+/Users/kimhyoju/Projects/ConsoleApp06loop3/ConsoleApp06loop3/bin/Debug/netcoreapp3.1/ConsoleApp06loop3.runtimeconfig.dev.json
+/Users/kimhyoju/Projects/ConsoleApp06loop3/ConsoleApp06loop3/bin/Debug/netcoreapp3.1/ConsoleApp06loop3.dll
+/Users/kimhyoju/Projects/ConsoleApp06loop3/ConsoleApp06loop3/bin/Debug/netcoreapp3.1/ConsoleApp06loop3.pdb
+/Users/kimhyoju/Projects/ConsoleApp06loop3/ConsoleApp06loop3/obj/Debug/netcoreapp3.1/ConsoleApp06loop3.csprojAssemblyReference.cache
+/Users/kimhyoju/Projects/ConsoleApp06loop3/ConsoleApp06loop3/obj/Debug/netcoreapp3.1/ConsoleApp06loop3.AssemblyInfoInputs.cache
+/Users/kimhyoju/Projects/ConsoleApp06loop3/ConsoleApp06loop3/obj/Debug/netcoreapp3.1/ConsoleApp06loop3.AssemblyInfo.cs
+/Users/kimhyoju/Projects/ConsoleApp06loop3/ConsoleApp06loop3/obj/Debug/netcoreapp3.1/ConsoleApp06loop3.csproj.CoreCompileInputs.cache
+/Users/kimhyoju/Projects/ConsoleApp06loop3/ConsoleApp06loop3/obj/Debug/netcoreapp3.1/ConsoleApp06loop3.dll
+/Users/kimhyoju/Projects/ConsoleApp06loop3/ConsoleApp06loop3/obj/Debug/netcoreapp3.1/ConsoleApp06loop3.pdb
+/Users/kimhyoju/Projects/ConsoleApp06loop3/ConsoleApp06loop3/obj/Debug/netcoreapp3.1/ConsoleApp06loop3.genruntimeconfig.cache

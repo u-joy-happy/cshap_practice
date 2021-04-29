@@ -1,0 +1,12 @@
+/Users/kimhyoju/Projects/ConsoleApp12class/ConsoleApp12class/obj/Debug/netcoreapp3.1/ConsoleApp12class.csprojAssemblyReference.cache
+/Users/kimhyoju/Projects/ConsoleApp12class/ConsoleApp12class/obj/Debug/netcoreapp3.1/ConsoleApp12class.AssemblyInfoInputs.cache
+/Users/kimhyoju/Projects/ConsoleApp12class/ConsoleApp12class/obj/Debug/netcoreapp3.1/ConsoleApp12class.AssemblyInfo.cs
+/Users/kimhyoju/Projects/ConsoleApp12class/ConsoleApp12class/obj/Debug/netcoreapp3.1/ConsoleApp12class.csproj.CoreCompileInputs.cache
+/Users/kimhyoju/Projects/ConsoleApp12class/ConsoleApp12class/bin/Debug/netcoreapp3.1/ConsoleApp12class.deps.json
+/Users/kimhyoju/Projects/ConsoleApp12class/ConsoleApp12class/bin/Debug/netcoreapp3.1/ConsoleApp12class.runtimeconfig.json
+/Users/kimhyoju/Projects/ConsoleApp12class/ConsoleApp12class/bin/Debug/netcoreapp3.1/ConsoleApp12class.runtimeconfig.dev.json
+/Users/kimhyoju/Projects/ConsoleApp12class/ConsoleApp12class/bin/Debug/netcoreapp3.1/ConsoleApp12class.dll
+/Users/kimhyoju/Projects/ConsoleApp12class/ConsoleApp12class/bin/Debug/netcoreapp3.1/ConsoleApp12class.pdb
+/Users/kimhyoju/Projects/ConsoleApp12class/ConsoleApp12class/obj/Debug/netcoreapp3.1/ConsoleApp12class.dll
+/Users/kimhyoju/Projects/ConsoleApp12class/ConsoleApp12class/obj/Debug/netcoreapp3.1/ConsoleApp12class.pdb
+/Users/kimhyoju/Projects/ConsoleApp12class/ConsoleApp12class/obj/Debug/netcoreapp3.1/ConsoleApp12class.genruntimeconfig.cache

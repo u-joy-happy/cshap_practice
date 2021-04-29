@@ -1,0 +1,12 @@
+/Users/kimhyoju/Projects/ConsoleApp13method/ConsoleApp13method/bin/Debug/netcoreapp3.1/ConsoleApp13method.deps.json
+/Users/kimhyoju/Projects/ConsoleApp13method/ConsoleApp13method/bin/Debug/netcoreapp3.1/ConsoleApp13method.runtimeconfig.json
+/Users/kimhyoju/Projects/ConsoleApp13method/ConsoleApp13method/bin/Debug/netcoreapp3.1/ConsoleApp13method.runtimeconfig.dev.json
+/Users/kimhyoju/Projects/ConsoleApp13method/ConsoleApp13method/bin/Debug/netcoreapp3.1/ConsoleApp13method.dll
+/Users/kimhyoju/Projects/ConsoleApp13method/ConsoleApp13method/bin/Debug/netcoreapp3.1/ConsoleApp13method.pdb
+/Users/kimhyoju/Projects/ConsoleApp13method/ConsoleApp13method/obj/Debug/netcoreapp3.1/ConsoleApp13method.csprojAssemblyReference.cache
+/Users/kimhyoju/Projects/ConsoleApp13method/ConsoleApp13method/obj/Debug/netcoreapp3.1/ConsoleApp13method.AssemblyInfoInputs.cache
+/Users/kimhyoju/Projects/ConsoleApp13method/ConsoleApp13method/obj/Debug/netcoreapp3.1/ConsoleApp13method.AssemblyInfo.cs
+/Users/kimhyoju/Projects/ConsoleApp13method/ConsoleApp13method/obj/Debug/netcoreapp3.1/ConsoleApp13method.csproj.CoreCompileInputs.cache
+/Users/kimhyoju/Projects/ConsoleApp13method/ConsoleApp13method/obj/Debug/netcoreapp3.1/ConsoleApp13method.dll
+/Users/kimhyoju/Projects/ConsoleApp13method/ConsoleApp13method/obj/Debug/netcoreapp3.1/ConsoleApp13method.pdb
+/Users/kimhyoju/Projects/ConsoleApp13method/ConsoleApp13method/obj/Debug/netcoreapp3.1/ConsoleApp13method.genruntimeconfig.cache
