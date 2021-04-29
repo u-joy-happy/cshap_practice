@@ -1,0 +1,12 @@
+/Users/kimhyoju/Projects/ConsoleApp05if_switch/ConsoleApp05if_switch/bin/Debug/netcoreapp3.1/ConsoleApp05if_switch.deps.json
+/Users/kimhyoju/Projects/ConsoleApp05if_switch/ConsoleApp05if_switch/bin/Debug/netcoreapp3.1/ConsoleApp05if_switch.runtimeconfig.json
+/Users/kimhyoju/Projects/ConsoleApp05if_switch/ConsoleApp05if_switch/bin/Debug/netcoreapp3.1/ConsoleApp05if_switch.runtimeconfig.dev.json
+/Users/kimhyoju/Projects/ConsoleApp05if_switch/ConsoleApp05if_switch/bin/Debug/netcoreapp3.1/ConsoleApp05if_switch.dll
+/Users/kimhyoju/Projects/ConsoleApp05if_switch/ConsoleApp05if_switch/bin/Debug/netcoreapp3.1/ConsoleApp05if_switch.pdb
+/Users/kimhyoju/Projects/ConsoleApp05if_switch/ConsoleApp05if_switch/obj/Debug/netcoreapp3.1/ConsoleApp05if_switch.csprojAssemblyReference.cache
+/Users/kimhyoju/Projects/ConsoleApp05if_switch/ConsoleApp05if_switch/obj/Debug/netcoreapp3.1/ConsoleApp05if_switch.AssemblyInfoInputs.cache
+/Users/kimhyoju/Projects/ConsoleApp05if_switch/ConsoleApp05if_switch/obj/Debug/netcoreapp3.1/ConsoleApp05if_switch.AssemblyInfo.cs
+/Users/kimhyoju/Projects/ConsoleApp05if_switch/ConsoleApp05if_switch/obj/Debug/netcoreapp3.1/ConsoleApp05if_switch.csproj.CoreCompileInputs.cache
+/Users/kimhyoju/Projects/ConsoleApp05if_switch/ConsoleApp05if_switch/obj/Debug/netcoreapp3.1/ConsoleApp05if_switch.dll
+/Users/kimhyoju/Projects/ConsoleApp05if_switch/ConsoleApp05if_switch/obj/Debug/netcoreapp3.1/ConsoleApp05if_switch.pdb
+/Users/kimhyoju/Projects/ConsoleApp05if_switch/ConsoleApp05if_switch/obj/Debug/netcoreapp3.1/ConsoleApp05if_switch.genruntimeconfig.cache
