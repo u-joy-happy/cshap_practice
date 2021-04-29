@@ -1,0 +1,12 @@
+/Users/kimhyoju/Projects/ConsoleApp04operater/ConsoleApp04operater/bin/Debug/netcoreapp3.1/ConsoleApp04operator.deps.json
+/Users/kimhyoju/Projects/ConsoleApp04operater/ConsoleApp04operater/bin/Debug/netcoreapp3.1/ConsoleApp04operator.runtimeconfig.json
+/Users/kimhyoju/Projects/ConsoleApp04operater/ConsoleApp04operater/bin/Debug/netcoreapp3.1/ConsoleApp04operator.runtimeconfig.dev.json
+/Users/kimhyoju/Projects/ConsoleApp04operater/ConsoleApp04operater/bin/Debug/netcoreapp3.1/ConsoleApp04operator.dll
+/Users/kimhyoju/Projects/ConsoleApp04operater/ConsoleApp04operater/bin/Debug/netcoreapp3.1/ConsoleApp04operator.pdb
+/Users/kimhyoju/Projects/ConsoleApp04operater/ConsoleApp04operater/obj/Debug/netcoreapp3.1/ConsoleApp04operator.csprojAssemblyReference.cache
+/Users/kimhyoju/Projects/ConsoleApp04operater/ConsoleApp04operater/obj/Debug/netcoreapp3.1/ConsoleApp04operator.AssemblyInfoInputs.cache
+/Users/kimhyoju/Projects/ConsoleApp04operater/ConsoleApp04operater/obj/Debug/netcoreapp3.1/ConsoleApp04operator.AssemblyInfo.cs
+/Users/kimhyoju/Projects/ConsoleApp04operater/ConsoleApp04operater/obj/Debug/netcoreapp3.1/ConsoleApp04operator.csproj.CoreCompileInputs.cache
+/Users/kimhyoju/Projects/ConsoleApp04operater/ConsoleApp04operater/obj/Debug/netcoreapp3.1/ConsoleApp04operator.dll
+/Users/kimhyoju/Projects/ConsoleApp04operater/ConsoleApp04operater/obj/Debug/netcoreapp3.1/ConsoleApp04operator.pdb
+/Users/kimhyoju/Projects/ConsoleApp04operater/ConsoleApp04operater/obj/Debug/netcoreapp3.1/ConsoleApp04operator.genruntimeconfig.cache
